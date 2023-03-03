@@ -19,4 +19,9 @@ https://app.rocketseat.com.br/discover/trails/conectar
 Ser curioso, e sempre pesquisar é ESSENCIAL! ir atrás de respostas em fórums, em conteúdo gratuito, consuma tudo que puder e que fizer sentido de acordo com a trilha que escolheu, (NENHUM CURSO até hoje que fiz me ensinou TUDO, que eu precisava fazer e da forma que precisava entender)
 Sempre pesquise, leia documentações originais, isso é muito importante.
 
+Um dos, se não o melhor dos cursos de TI que fiz na vida(necessário saber Inglês) é o curso CS50 de Havard, Introdução a Ciencias da Computação.
+https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0 
+
+
+
 *** será adicionado mais EM BREVE***
