@@ -3,6 +3,10 @@
 
 O Intuito dessa página é compartilhar tudo que estudei, antes de começar na área de desenvolvimento, sinta se livre para fazer comentários, de adições de conteúdos e materiais de estudo.
 
+APRENDA INGLÊS,aprender inglês é essencial para melhorar sua busca pelo conhecimento na área, além de te dar alguma distinção no mercado!!!
+PORQUE? Muitas documentações, ferramentas e bibliotecas estão em inglês, por isso é quase invevitável você não saber inglês, pelos menos técnico, ou para leitura...
+
+
 **Respondo dúvidas em comentários
 
 
